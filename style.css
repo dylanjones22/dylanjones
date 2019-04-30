@@ -27,12 +27,16 @@ ul li {
 ul li a {
 font-size: 25px;
 font-family: arial;
-padding: 0 130px;
+padding: 0 100px;
+position: relative;
+left: 350px;
+bottom: 100px;
 }
 ul li a:hover {
   color: red;
 }
-.img-22 {
+.img-cardinals {
   float:right;
-  margin-right: 10px;
+  position: relative;
+  bottom: 105px;
 }
