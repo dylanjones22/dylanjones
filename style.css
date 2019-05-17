@@ -41,7 +41,7 @@ right: 400px;
 }
 .me-p {
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
 margin-top: 20px;
 
 }
@@ -87,5 +87,12 @@ h5 {
   font-size: 50px;
   text-align: center;
   margin-top: 40px;
+
+}
+.mato {
+  font-size: 70px;
+  position: relative;
+  top: 300px;
+  text-align: center;
 
 }
